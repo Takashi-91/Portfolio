@@ -75,16 +75,10 @@ function Home() {
 
           {/* Intro Section */}
           <div className="text-center">
-            <h4 className="text-lg">Hello, I am</h4>
-            <h1 className="text-4xl font-bold">Madimetja Chuene</h1>
-            <h6 className="text-xl">UX/UI Designer | Software/Web Developer</h6>
+            <h4 className="text-lg font-bold text-black">Hello, I am</h4>
+            <h1 className="text-4xl  font-bold text-black">Madimetja Chuene</h1>
+            <h6 className="text-xl  font-bold text-black">UX/UI Designer | Software/Web Developer</h6>
           </div>
-
-          {/* About Section */}
-          <p className="text-black leading-relaxed text-center px-4 lg:px-8">
-            I am <strong className="text-gray-800">Madimetja Terence Chuene</strong>, a passionate IT student striving to excel in software development, web development, and UX/UI design. My goal is to create impactful digital solutions that improve people's lives.
-          </p>
-
           {/* Buttons */}
           <div className="flex flex-col lg:flex-row space-y-4 lg:space-y-0 lg:space-x-4">
             <button className="w-full lg:w-auto px-6 py-3 bg-red-500 text-white font-medium rounded-md shadow hover:bg-red-600 transition duration-300">
@@ -113,7 +107,6 @@ function Home() {
       {/* Additional Sections */}
       <About />
       <Skills />
-      <Contact />
     </>
   );
 }
