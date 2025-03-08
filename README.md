@@ -1,5 +1,6 @@
 # Developer Portfolio Website
-![image](https://github.com/Takashi-91/Portfolio-Website-Takashi-91/assets/155132652/87b8bd83-9726-447c-ac96-e4b048f6061a)
+![image](https://github.com/user-attachments/assets/0a632042-cb49-4d92-bb92-2585b590faab)
+
 
 ## Overview
 
